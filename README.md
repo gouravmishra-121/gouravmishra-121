@@ -1,5 +1,11 @@
 ## 👋 Hello! I'm Gourav Mishra
-A passionate **DevOps Engineer** who thrives on automating workflows, managing cloud infrastructure, and creating seamless CI/CD pipelines. My current focus is on **AWS**, **Terraform**, **Kubernetes**, and **Python**, with a strong interest in the intersection of **DevOps** and **Machine Learning**. Let's build something awesome together!
+A passionate DevOps Engineer who thrives on automating workflows, managing cloud infrastructure, and creating seamless CI/CD pipelines.
+
+🔹 **AWS Certified Solutions Architect – Associate**
+🔹 **Focused on AWS, Terraform, Kubernetes, and Python**
+🔹 **Exploring the intersection of DevOps and Machine Learning**
+
+Let's build something awesome together! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gourav-mishra-007a72168)
